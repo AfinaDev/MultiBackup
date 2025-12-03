@@ -3,3 +3,4 @@ config/folders.json
 config/settings.yaml
 storage
 .venv
+.DS_Store
