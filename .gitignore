@@ -1,0 +1,5 @@
+config/databases.json
+config/folders.json
+config/settings.yaml
+storage
+.venv

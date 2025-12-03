@@ -1,0 +1,15 @@
+settings:
+  delay: 6 # Hours
+  gofile_io:
+    api_token: "YOUR_API_TOKEN"
+    api_domain: "upload.gofile.io"
+  telegram:
+    api_token: "YOUR_API_TOKEN_TELEGRAM"
+    chat_id: "YOUR_CHAT_ID_TELEGRAM"
+  path_config:
+    databases_json: "config/databases.json"
+    folders_json: "config/folders.json"
+  path_backup:
+    root_backup: "storage"
+    databases_backup: "storage/backup_db"
+    folders_backup: "storage/backup_folders"
